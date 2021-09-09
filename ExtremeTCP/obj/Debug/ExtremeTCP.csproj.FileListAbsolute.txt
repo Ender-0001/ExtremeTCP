@@ -1,0 +1,6 @@
+C:\Users\Ender\source\repos\ExtremeTCP\ExtremeTCP\bin\Debug\ExtremeTCP.dll
+C:\Users\Ender\source\repos\ExtremeTCP\ExtremeTCP\bin\Debug\ExtremeTCP.pdb
+C:\Users\Ender\source\repos\ExtremeTCP\ExtremeTCP\obj\Debug\ExtremeTCP.csproj.AssemblyReference.cache
+C:\Users\Ender\source\repos\ExtremeTCP\ExtremeTCP\obj\Debug\ExtremeTCP.csproj.CoreCompileInputs.cache
+C:\Users\Ender\source\repos\ExtremeTCP\ExtremeTCP\obj\Debug\ExtremeTCP.dll
+C:\Users\Ender\source\repos\ExtremeTCP\ExtremeTCP\obj\Debug\ExtremeTCP.pdb
